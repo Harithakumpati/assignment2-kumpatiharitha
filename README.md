@@ -14,3 +14,20 @@
 3. Hop on to bus No:217 and it drops at begumpet bus stand.
 4. from begumpet bus stand to paradise biryani is walkable distance of 15 Minutes.
 
+## menu
+* Starters
+  - chicken 65
+  - chicken tikka masala
+  - veg munchurain
+
+* Main course
+  - Chicken Biryani
+  - Mutton Biryani
+  - Veg dhum Biryani
+
+* Ice creams
+  - Chocolate 
+  - Vanila
+  - Red velvet
+  
+      
