@@ -31,3 +31,18 @@
   - Red velvet
 
   **[AboutMe](AboutMe.md)**
+  
+  ---
+  ### Sports
+Below tables represents the sports activities which contain Sport name, location and amount of money to be spend for the equipment.<br>these are the 4 types of sports that I would recommend someone to try.
+
+|  Name  |  Location  |  Amount of money  |
+|--------|------------|-------------------|
+|Foot Ball | Punjab Stadium | $ 145 |
+|Basket Ball | Hyderabad Stadium | $ 150 |
+|Cricket | Lal Bahadhur Stadium | $ 120 |
+|Tennis | Chennai Stadium | $ 180 |
+----
+
+
+
