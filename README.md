@@ -66,5 +66,5 @@ procedure DFS(G, v) is
                 label e as a discovered edge
                 recursively call DFS(G, w)
             else
-               label e as a back edge
+               label e as a back edges
  [more about Graph Traversal](https://en.wikipedia.org/wiki/Graph_traversal)              
