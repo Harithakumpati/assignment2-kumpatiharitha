@@ -45,4 +45,10 @@ Below tables represents the sports activities which contain Sport name, location
 ----
 
 
+## Quotes
+>“The purpose of our lives is to be happy.” — Dalai Lama
+>“You only live once, but if you do it right, once is enough.” — Mae West
+
+----
+
 
